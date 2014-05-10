@@ -31,38 +31,6 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 
 [Document1]
-DocumentPath=..\WPI MQP\Hardware Design\Altium part libraries\Atmel Microcontroller megaAVR.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document2]
-DocumentPath=..\WPI MQP\Hardware Design\Altium part libraries\Atmel\Atmel Microcontroller 8-Bit AVR.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document3]
 DocumentPath=AVR Board 4.0 Processors .SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -78,7 +46,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document4]
+[Document2]
 DocumentPath=AVR Board 4.0 Power Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -94,39 +62,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document5]
-DocumentPath=..\..\Documents\GitHub\altiumPartLib\Adams Altium Library.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document6]
-DocumentPath=..\..\Documents\GitHub\altiumPartLib\Adams Altium Library.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document7]
+[Document3]
 DocumentPath=AVR Board 4.0 Symbol Lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +78,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document8]
+[Document4]
 DocumentPath=AVR Board 4.0 Footprint Lib.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -158,7 +94,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document9]
+[Document5]
 DocumentPath=AVR Board 4.0 Processors .Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +110,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document10]
+[Document6]
 DocumentPath=AVR Board 4.0 FTDI USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +126,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document11]
+[Document7]
 DocumentPath=AVR Board 4.0 Ports.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +142,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document12]
+[Document8]
 DocumentPath=FTDI FT Series.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -222,7 +158,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document13]
+[Document9]
 DocumentPath=FTDI FT-X Series.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -238,7 +174,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document14]
+[Document10]
 DocumentPath=AVR Board 4.0 Master Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -254,7 +190,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document15]
+[Document11]
 DocumentPath=AVR Board 4.0 Ports.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +206,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document16]
+[Document12]
 DocumentPath=AVR Board 4.0 R1.2 Alternate.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +222,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document17]
+[Document13]
 DocumentPath=TI Power Management Linear Regulator Single Channel LDO (400-7500mA).IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -302,8 +238,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document18]
+[Document14]
 DocumentPath=AVR Board 4.0 R1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document15]
+DocumentPath=..\altiumPartLib\Adams Altium Library.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document16]
+DocumentPath=..\altiumPartLib\Adams Altium Library.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
